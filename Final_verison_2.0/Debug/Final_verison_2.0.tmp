@@ -1,0 +1,121 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\Debug\Final_verison_2.0.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Final_verison_2.0.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Final_verison_2.0.map</FILE>
+  <FILE>Final_verison_2.0.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>138</LINE></init>
+  <ISR2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>218</LINE></ISR2>
+  <ISR0><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>187</LINE></ISR0>
+  <main><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>184</LINE></main>
+  <loop><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>191</LINE></loop>
+  <notreset><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>195</LINE></notreset>
+  <loop2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>197</LINE></loop2>
+  <CharacterTable><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>370</LINE></CharacterTable>
+  <end><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>214</LINE></end>
+  <SwitchHigh><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>225</LINE></SwitchHigh>
+  <PrescalerTo5><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>246</LINE></PrescalerTo5>
+  <KEY_3><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>272</LINE></KEY_3>
+  <KEY_2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>286</LINE></KEY_2>
+  <KEY_1><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>300</LINE></KEY_1>
+  <KEY_0><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>314</LINE></KEY_0>
+  <reset><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>239</LINE></reset>
+  <SwitchHigh2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>243</LINE></SwitchHigh2>
+  <PrescalerTo6><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>251</LINE></PrescalerTo6>
+  <PrescalerTo4><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>256</LINE></PrescalerTo4>
+  <PrescalerTo3><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>261</LINE></PrescalerTo3>
+  <PrescalerTo2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>266</LINE></PrescalerTo2>
+  <KEY_3_7><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>331</LINE></KEY_3_7>
+  <KEY_3_6><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>333</LINE></KEY_3_6>
+  <KEY_3_5><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>335</LINE></KEY_3_5>
+  <KEY_3_4><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>361</LINE></KEY_3_4>
+  <KEY_2_7><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>337</LINE></KEY_2_7>
+  <KEY_2_6><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>339</LINE></KEY_2_6>
+  <KEY_2_5><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>341</LINE></KEY_2_5>
+  <KEY_2_4><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>359</LINE></KEY_2_4>
+  <KEY_1_7><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>343</LINE></KEY_1_7>
+  <KEY_1_6><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>345</LINE></KEY_1_6>
+  <KEY_1_5><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>347</LINE></KEY_1_5>
+  <KEY_1_4><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>357</LINE></KEY_1_4>
+  <KEY_0_7><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>349</LINE></KEY_0_7>
+  <KEY_0_6><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>351</LINE></KEY_0_6>
+  <KEY_0_5><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>353</LINE></KEY_0_5>
+  <KEY_0_4><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>355</LINE></KEY_0_4>
+  <math_function><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>390</LINE></math_function>
+  <Sinus><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>411</LINE></Sinus>
+  <Sinus_2x><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>432</LINE></Sinus_2x>
+  <Cosinus_1x><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>451</LINE></Cosinus_1x>
+  <Cosinus_2x><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>470</LINE></Cosinus_2x>
+  <Tangente><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>491</LINE></Tangente>
+  <CoTangente><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>510</LINE></CoTangente>
+  <exponentielle><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>529</LINE></exponentielle>
+  <logarithm_function><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>547</LINE></logarithm_function>
+  <x_function><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>567</LINE></x_function>
+  <x_carre_function><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>587</LINE></x_carre_function>
+  <x_cube_function><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>607</LINE></x_cube_function>
+  <x_sqrt_function><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>627</LINE></x_sqrt_function>
+  <Nothing><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>645</LINE></Nothing>
+  <Periodic_table><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>667</LINE></Periodic_table>
+  <hydrogen><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>688</LINE></hydrogen>
+  <helium><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>709</LINE></helium>
+  <lithium><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>729</LINE></lithium>
+  <Boron><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>749</LINE></Boron>
+  <Carbon><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>769</LINE></Carbon>
+  <Nitrogen><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>789</LINE></Nitrogen>
+  <Potassium><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>809</LINE></Potassium>
+  <Oxygen><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>829</LINE></Oxygen>
+  <Fluorine><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>850</LINE></Fluorine>
+  <Sodium><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>872</LINE></Sodium>
+  <Magnesium><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>892</LINE></Magnesium>
+  <Sulfur><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>912</LINE></Sulfur>
+  <PinB_mendeliev><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>932</LINE></PinB_mendeliev>
+  <Periodic_table2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>950</LINE></Periodic_table2>
+  <Sulfur2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>971</LINE></Sulfur2>
+  <hydrogen2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>992</LINE></hydrogen2>
+  <helium3><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1013</LINE></helium3>
+  <lithium2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1033</LINE></lithium2>
+  <Boron2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1053</LINE></Boron2>
+  <Carbon2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1073</LINE></Carbon2>
+  <Nitrogen2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1093</LINE></Nitrogen2>
+  <Potassium2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1113</LINE></Potassium2>
+  <Oxygen2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1133</LINE></Oxygen2>
+  <Fluorine2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1154</LINE></Fluorine2>
+  <Sodium2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1176</LINE></Sodium2>
+  <Magnesium2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1196</LINE></Magnesium2>
+  <PinB_mendeliev2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1217</LINE></PinB_mendeliev2>
+  <LOL1><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1238</LINE></LOL1>
+  <LOL2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1259</LINE></LOL2>
+  <LOL3><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1279</LINE></LOL3>
+  <LOL4><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1299</LINE></LOL4>
+  <LOL5><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1319</LINE></LOL5>
+  <LOL6><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1339</LINE></LOL6>
+  <LOL7><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1359</LINE></LOL7>
+  <LOL8><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1379</LINE></LOL8>
+  <LOL9><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1399</LINE></LOL9>
+  <LOL10><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1419</LINE></LOL10>
+  <LOL11><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1439</LINE></LOL11>
+  <LOL12><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1459</LINE></LOL12>
+  <LOL13><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1479</LINE></LOL13>
+  <Nothing2><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1500</LINE></Nothing2>
+  <Nothing3><FILE>C:\Users\leand\OneDrive\Documents\Atmel Studio\7.0\Final_Version\Final_verison_2.0\main.asm</FILE><LINE>1521</LINE></Nothing3>
+ </LABELS>
+</ASSEMBLER_INFO>
